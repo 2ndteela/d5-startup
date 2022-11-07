@@ -80,16 +80,16 @@ first time using the system so I don't know which term is technically correct, b
 > - Gain access to 3 types of magic listed below
 >
 > **Illusion (M)** magic is the school of generating illusions. These illusions have 3 aspects, perceived, felt and heard. For every level of success you add another one of these to your illusion.
-> - On a 6 or less, your illusion can be perceived, felt or heard. 
-> - 7 - 9, you can have 2 of the 3 aspects. 
-> - 10+ you can have all three (yes, that means on a 10+ you can conjure an item, person animal or whatever). 
+> - Failure: your illusion can be perceived, felt or heard. 
+> - Mixes Success: you can have 2 of the 3 aspects. 
+> - Total Success: you can have all three (yes, that means on a 10+ you can conjure an item, person animal or whatever). 
 >
 >These illusions are confined to a 10 X 10 size and depending on the complexity of the illusion, may require additional rolls. For example, if you wanted to conjure a bike, you might need to complete a Mind roll as well to see how well you understand the workings of a bike and how good one of you can make. If you are attacked (take harm) or otherwise distracted (scared/surprised) with you are in the middle of an illusion, you must roll a 7+ Mind roll to continue the illusion.
 >
 >**Transmutation (M)** is the school of making one thing of another. There are 3 levels of transmuting, rearranging, refining and transforming. Each requires another level of success and enough material components to make the object you are trying to make. You can't make an ocean out of a puddle. An example of transmutation would be if you had a 10 food piece of wood and rolled to transmute it. 
-> - 6 or less you could reshape how the wood is formed, making something like a bow.
-> - 7 - 9 you could refine the wood into a wood product like paper, charcoal or even combustible wood vapor. 
-> - 10+ you could completely change the wood into another material completely like steel or even gold, and shape it. Only an object that has undergone this highest stage of transformation can be transmuted again. Any lower rolls renders the object alchemically in≥ert. 
+> - Failure: you could reshape how the wood is formed, making something like a bow.
+> - Mixed Success: you could refine the wood into a wood product like paper, charcoal or even combustible wood vapor. 
+> - Complete Success: you could completely change the wood into another material completely like steel or even gold, and shape it. Only an object that has undergone this highest stage of transformation can be transmuted again. Any lower rolls renders the object alchemically in≥ert. 
 >
 >Transmutation preserves the density of an object. If you were to transmute a 5 lbs bag of flour into gold, you would have 5 lbs of gold, not the volume of gold that the bag of flour occupied. More complex transmutations may require additional rolls to test your knowledge of the specifics. All transmuted objects must be one sold component. If you wanted to make a car by transmutation, you would need to transmute every individual component.
 >
@@ -99,14 +99,14 @@ first time using the system so I don't know which term is technically correct, b
 >
 >Rolls work as follows:
 >
-> - 6 or less means you can not control your attack and some bad side effect will happen. 
-> - 7 - 9 means your attack will land, but that's all.
-> - 10+ means you can either inflict an extra harm on your attack, or impose some condition on the target with the DM's approval. For example, a 10+ roll on a fireball could set the target on fire, giving it an extra harm every term it remains on fire. 
+> - Failure: you can not control your attack and some bad side effect will happen. 
+> - Mixed Success: your attack will land, but that's all.
+> - Total Success: you can either inflict an extra harm on your attack, or impose some condition on the target with the DM's approval. For example, a 10+ roll on a fireball could set the target on fire, giving it an extra harm every term it remains on fire. 
 >
 > **Defensive (S)** magic is used to prevent harm. It works pretty simply. Twice per round, when damage is dealt to you a someone within sight and hearing you can try to stop it.
-> - 6 or less, harm dealt is capped at 1
-> - 7 - 9, up 2 points of harm are blocked on a single attack
-> - 10+ damage is completely blocked and can be redirected back to the attacker for 1 harm
+> - Failure: harm dealt is capped at 1
+> - Mixed Success: up to 2 points of harm are blocked on a single attack
+> - Total Success: damage is completely blocked and can be redirected back to the attacker for 1 harm
 > 
 > **Healing (S)** magic does simply that. Rolling less than a 6 will result in 1 harm being healed from the target. 7 - 9 means up to 3 points of heal distributed across targets as you see fit. a 10+ means either 5 points of healing or rectify recently dealt (DM's discretion of what *recent* means) serious harm.
 >
@@ -117,9 +117,9 @@ first time using the system so I don't know which term is technically correct, b
 > - Read the vibe: See into a person's feelings, or motivations, or get the sense of a crowd
 >
 > Rolls are as follows:
-> - 6 or less, message is very cryptic, but you know a feeling
-> - 7 - 9, message is vague, but helpful
-> - 10+ a very clear message
+> - Failure: message is very cryptic, but you know a feeling
+> - Mixed Success: message is vague, but helpful
+> - Total Success: a very clear message
 >
 > Connecting with dead will summon the spirit back, but the worse the roll, the more disoriented the spirit will be. 
 >
@@ -135,7 +135,7 @@ first time using the system so I don't know which term is technically correct, b
 > - 10+ item is created as intended
 
 > # Contests
->Most of the world of D5 takes place in open interaction, where there is a collaborative effort of the players and DM to create a story together. There are times though when the game needs to become more structured and move into a structured mode. These sections of the game are called contests. A more simple contest may be trying to decern if someone is trying to lie to you, with each player only making one roll. These contests are resolved simply by whoever rolled higher. A more complex contest though may be a fight or a cooking competition. These may require many rounds and rolls.
+> Most of the world of D5 takes place in open interaction, where there is a collaborative effort of the players and DM to create a story together. There are times though when the game needs to become more structured and move into a structured mode. These sections of the game are called contests. A more simple contest may be trying to decern if someone is trying to lie to you, with each player only making one roll. These contests are resolved simply by whoever rolled higher. A more complex contest though may be a fight or a cooking competition. These may require many rounds and rolls.
 >
 > ## Initiative
 > To determine initiative order, each player will roll all 3 die, with the highest score going first and everyone following in numerical order. If there needs to be a tire breaker, take the player with the higher speed stat. If they are sill tied, the two players will have another roll to see who goes first out of the two of them. Any player with priority will jump to the front of the order. If 2 players have equal priority then they will do the same 3 dice roll to break the tie.
@@ -241,3 +241,4 @@ first time using the system so I don't know which term is technically correct, b
 > | Surge | 2 times per day you can take 2 Main Actions in your turn |
 > | Reckless | Once per turn, you can make an extra attack, but all those attacking you next turn have advantage on attacks against you |
 > | Bastion | If you do not move on your turn, you can attack twice |
+> | Helpful | You can
