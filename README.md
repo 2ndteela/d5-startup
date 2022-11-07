@@ -229,14 +229,15 @@ first time using the system so I don't know which term is technically correct, b
 > - 4 : 8 failures
 > - 5 : 8 failures
 > 
-> Each new level DOES NOT include previous failures. So after you level up to level 1, you need 6 more failures to reach level 2. On a level up, you can either take +1 to any stat in group A or B or a feat from the table below
-> | Name | Description |
+> Each new level DOES NOT include previous failures. So after you level up to level 1, you need 6 more failures to reach level 2. On a level up, you can either take +1 to any stat in group A or B or a feat from the table below:
+> | Feat | Description |
 > | -------------- | ----------------------------------------------------- |
 > | Faster | +5 to speed |
 > | Cat Like Reflexes | Gain 1 charge of priority you can use once per day |
 > | Lucky | If you roll all 1's, you can reroll the dice |
-> | Magical | Learn 1 extra form of magic, even if you're not a magician |
-> | Rally | Once per day, you can grant your allies +1 on their next turn |
+> | Innate Magic | Learn 1 extra form of magic, even if you're not a magician |
+> | Rally | Once per day, you can grant your allies +1 to their rolls on their next turn |
 > | Relentless | Instead of going down when your health hits 0, stay up for one more attack |
-
 > | Surge | 2 times per day you can take 2 Main Actions in your turn |
+> | Reckless | Once per turn, you can make an extra attack, but all those attacking you next turn have advantage on attacks against you |
+> | Bastion | If you do not move on your turn, you can attack twice |

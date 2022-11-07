@@ -13,4 +13,34 @@ code {
     monospace;
 }
 
-@page { margin: 0; }
+h4 { 
+  margin: 0px;
+  text-align: left;
+}
+
+#print-message {
+  position: fixed;
+  width: 170px;
+  left: 16px;
+  top: 16px;
+  border: 2px solid black;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+@media print {
+
+  @page {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  button {
+    display: none;
+  }
+
+  #print-message { display: none;}
+}
