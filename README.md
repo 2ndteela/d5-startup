@@ -11,7 +11,7 @@ first time using the system so I don't know which term is technically correct, b
 > For every single roll in D5 you will be using at most 4 six sided dice. When you have *Advantage*, you roll 3 dice and take the highest two rolls. *Disadvantage* works in the same way, but you take the lowest 2 rolls instead.
 >
 > ### Rolling
-> Unlike in Dungeons and Dragons, where you roll and try to be some number that the DM has decided, in D5 there are only 3 results and they follow this pattern:
+> Unlike in Dungeons and Dragons, where you roll and try to beat some number that the DM has decided, in D5 there are only 3 results and they follow this pattern:
 > - 6 or less is a failure
 > - 7 - 9 is a mixed success
 > - 10+ is a total success
