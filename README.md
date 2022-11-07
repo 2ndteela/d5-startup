@@ -2,20 +2,19 @@
 
 `Play your characters like you're driving a stolen car - Avery`
 
->Welcome to Dungeons & Dragons & Diners & Drive-Ins & Dives, or D5 has I like to call it. A game that mixes magic with mushrooms and 
+> Welcome to Dungeons & Dragons & Diners & Drive-Ins & Dives, or D5 has I like to call it. A game that mixes magic with mushrooms and 
 fantasy with fantastic taste ( or so I hope ). This system is inspired by or based on the Powered By the Apocalypse system. It's my 
 first time using the system so I don't know which term is technically correct, but it probably won't get me sued.
 
 >## The Basics
 > ### Dice
-> For every single roll in D5 you will be using as most 4 six sided dice. *Advantage* means you roll 3 dice and take the highest two rolls. *Disadvantage* means you roll 3 dice and take the  
-> lowest 2 rolls.
+> For every single roll in D5 you will be using at most 4 six sided dice. When you have *Advantage*, you roll 3 dice and take the highest two rolls. *Disadvantage* works in the same way, but you take the lowest 2 rolls instead.
 >
 > ### Rolling
 > Unlike in Dungeons and Dragons, where you roll and try to be some number that the DM has decided, in D5 there are only 3 results and they follow this pattern:
 > - 6 or less is a failure
-> - 7 - 9 Mixed success
-> - 10+ complete success
+> - 7 - 9 is a mixed success
+> - 10+ is a total success
 > ### Stats
 > The world of D5 is based off of 3 groups of stats, one for your more tangible traits and one for the less so, and a set of "fixed" traits. The highest value any stat in group A or B can be is +3.
 >
@@ -130,9 +129,9 @@ first time using the system so I don't know which term is technically correct, b
 > - A bracelet that can give one instance of advantage if given the right materials
 >
 > Rolls work as follows:
-> - 6 Failed to create the item. Some components may be ruined
-> - 7 - 9 item is created, but maybe has limited uses
-> - 10+ item is created as intended
+> - Failure: Failed to create the item. Some components may be ruined
+> - Mixed Success: 7 - 9 item is created, but maybe has limited uses
+> - Total Success: item is created as intended
 
 > # Contests
 > Most of the world of D5 takes place in open interaction, where there is a collaborative effort of the players and DM to create a story together. There are times though when the game needs to become more structured and move into a structured mode. These sections of the game are called contests. A more simple contest may be trying to decern if someone is trying to lie to you, with each player only making one roll. These contests are resolved simply by whoever rolled higher. A more complex contest though may be a fight or a cooking competition. These may require many rounds and rolls.
@@ -195,6 +194,8 @@ first time using the system so I don't know which term is technically correct, b
 > - Brewing: Spirit, X-Factor
 > - Decorating a dish: Dexterity X-Factor
 > - Magical hybrids
+> 
+> You can also have advantage and disadvantage on these rolls, in which case you would increase the dice you roll to 4, and take the highest/lowest of those rolls.
 
 > ## Items
 > Items are up to the discretion of the DM, but here are some guidelines for how you can create powerful, yet fair items:
@@ -203,7 +204,7 @@ first time using the system so I don't know which term is technically correct, b
 > - Allows a player to attack with a different stat than strength
 > - Gives a +1 to the stat the player attacks with
 > - Can heal for up to 2 harm
-> - Can stablize a downed person
+> - Can stabilize a downed person
 > 
 > **Uncommon Items**
 > - Grants +5 speed, or +1 to any other stat
