@@ -31,10 +31,11 @@ first time using the system so I don't know which term is technically correct, b
 > **Other (C)**
 > - Speed
 > - Health
+> - Stress
 >
-> These stats are combined together for you to perform any action you can think of. There are a lot of ways to use these stats that I'll get into later, but in the end, every thing is at the 
-> discretion of the DM. Don't be afraid to talk it out with them.
-> The clear outlier here is X-Factor. This is your wild card value. It's your luck, your flair, your steeze, whenever you want to add some pizazz to a roll, this is what you use. 
+> These stats are combined together for you to perform any action you can think of. There are a lot of ways to use these stats that I'll get into later, but in the end, every thing is at the discretion of the DM. Don't be afraid to talk it out with them.
+> The clear outlier here is **X-Factor**. This is your wild card value. It's your luck, your flair, your steeze, whenever you want to add some pizazz to a roll, this is what you use. 
+> **Stress** is used in your cooking and baking, which will be covered in the Food section below
 
 > ## Building your character
 > ### Baseline
@@ -50,12 +51,12 @@ first time using the system so I don't know which term is technically correct, b
 > | Race | Stat Boosts | Stat Reductions |
 > |-----------|-----------------------------------|-----------------------------------|
 > | Human | +1 to any stat in group A or B | - |
-> | Elf | +2 to mind | -1 to Strength & X-Factor |
-> | Dwarf | +1 to Strength & Constitution | -5 in speed |
+> | Elf | +2 to mind | -1 to Might & X-Factor |
+> | Dwarf | +1 to Might & Constitution | -5 in speed |
 > | Halfling | +1 in Dexterity & Spirit | -5 in speed |
-> | Orc | +1 to Strength & +2 in Health | -1 in Dexterity & Mind |
-> | Elemental | +1 to Mind, Spirit, X-Factor | -1 in Strength, Constitution and Health |
-> | Nymph | +1 to any magical roll | -1 in Strength and Health |
+> | Orc | +1 to Might & +2 in Health | -1 in Dexterity & Mind |
+> | Elemental | +1 to Mind, Spirit, X-Factor | -1 in Might, Constitution and Health |
+> | Nymph | +1 to any magical roll | -1 in Might and Health |
 >
 > ### Tailoring your stats
 > There are a few general categories you can use to customize your character and they are pretty simple. You have 1 available slots for customizing your stats and can choose any of the following:
@@ -144,6 +145,15 @@ first time using the system so I don't know which term is technically correct, b
 > ## Food
 > It wouldn't be true to it's roots if the game didn't have baked in rules about food competitions. There will be many times you may need to cook, bake or mix to impress. Every competition should have at least 3 elements and include more if the DM thinks it needs them. For example, if it was a cake baking competition, there would be a mixing, baking and frosting phase, possibly with a construction phase too. Since everyone is competing at once, there's no real need for turns, the DM will decide how they are to be organized. Speed is important in situations where there are limited resources. For example, if the judges want a spicy dish, and there are only 3 peppers that grant a +1 to your cooking roll, the 3 players with the fastest speed can will get the first choice of using those ingredients. Priority can play a big part here too. For what rolls to use during competition, see the *Combined Rolls* section.
 >
+> ### Food Actions
+> While competing against others when it comes to food, there are a few actions you can take in order to prepare your dish. You establish order in the same way you would for a fight, by rolling initiative. From there, you can complete one of the following actions per turn:
+> - **Combine**
+> - **Cook**
+> - **Bake**
+> - **Enhance**
+> - **Prepare**
+> - **Research**
+>
 > ## Fighting
 > While fighting, combatants take turns attacking very similarly to Dnd. Every turn in combat can do the following: 
 > - Move
@@ -163,7 +173,7 @@ first time using the system so I don't know which term is technically correct, b
 > **Main Actions** are a set of mutually exclusive actions that you can take on your turn, meaning you get 1 main action a turn. Main actions include:
 > | Action Name | Description |
 > | --------------------------- | ---------------------------------------------------------| 
-> | Making a physical attack | Attacking using a weapon or your fists. If you're attacking with an item, use the skill that the item prescribes. If you're using your fists, use your strength |
+> | Making a physical attack | Attacking using a weapon or your fists. If you're attacking with an item, use the skill that the item prescribes. If you're using your fists, use your Might |
 > | Casting a spell | See the description for our spell |
 > | Sprinting | Double your movement speed, but you can't make an attack this turn |
 > | Hiding | Attempt to hide yourself from detection using what cover there is around you |
@@ -201,7 +211,7 @@ first time using the system so I don't know which term is technically correct, b
 > Items are up to the discretion of the DM, but here are some guidelines for how you can create powerful, yet fair items:
 >
 > **Common Items**
-> - Allows a player to attack with a different stat than strength
+> - Allows a player to attack with a different stat than Might
 > - Gives a +1 to the stat the player attacks with
 > - Can heal for up to 2 harm
 > - Can stabilize a downed person
